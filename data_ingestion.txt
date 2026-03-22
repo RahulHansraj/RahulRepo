@@ -1,2 +1,6 @@
 hey i am not ingesting the data in this file (bug is fixed)
 master here baby.let me also contribute to the project
+
+hehe im learning git
+
+i am fixing this bug
